@@ -59,6 +59,8 @@ To apply for OPT, please contact your designated school official for more inform
 
 **H-1B Employer Data Hub:** The data hub provides an additional layer of transparency to the H-1B program by providing information on employers petitioning for H-1B workers. The hub allows the public to search for H-1B petitioners by fiscal year, [NAICS code](https://www.census.gov/eos/www/naics/), employer name, city, state, or ZIP code. Students can learn more about the data hub at [USCIS h-1b-data-hub](https://www.uscis.gov/h-1b-data-hub)
 
+**H-1B & PERM Salary Database \(visa-bulletin.us\):** A free, no-signup database of over 1.5 million certified H-1B and PERM wages pulled directly from the Department of Labor disclosure files. Students can search by employer, role, and state to see what a company actually certified in wages for sponsored roles — useful for gauging realistic pay before applying. Learn more at [visa-bulletin.us/salaries](https://visa-bulletin.us/salaries/).
+
 **Company Websites:** Companies that sponsor visas typically disclose specific information on their website or in job descriptions. If the information is unavailable, students can reach out to the company’s Human Resource Manager to learn more.
 
 **College Networks:** Your college or university offers a valuable resource to students to learn more about H1-B visa companies. You can visit your career center or international student resource center to learn more.
